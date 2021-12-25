@@ -20,6 +20,6 @@ pandas
 scikit-learn
 keras
 tensorflow
-searborn
+seaborn==0.11.2 
 matplotlib
 sklearn
