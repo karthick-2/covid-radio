@@ -20,3 +20,6 @@ pandas
 scikit-learn
 keras
 tensorflow
+searborn
+matplotlib
+sklearn
